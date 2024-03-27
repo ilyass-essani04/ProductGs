@@ -15,6 +15,7 @@
             <button class="inputs" type="submit">Se Connecter</button> 
         </form>
     </div>
+    <img src="" alt="">
     
 </body>
 </html>
